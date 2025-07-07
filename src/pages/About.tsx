@@ -33,6 +33,13 @@ const About = () => {
       image: "https://media.licdn.com/dms/image/v2/D5603AQHkUrzfmHVp3g/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1732688361963?e=2147483647&v=beta&t=DA9-PH7ABEECL-VMClgUiZ2dSTIGkD4T8yio9yf6Gfs",
       bio: "Visionary leader with a passion for technology and business growth.",
       linkedin: "https://www.linkedin.com/in/utkarsh-makwana-29a0841a9"
+    },
+    {
+      name: "Om Jani",
+      role: "AI Developer",
+      image: "https://media.licdn.com/dms/image/D4D03AQF1Qw1vQnQ2xA/profile-displayphoto-shrink_800_800/0/1689789240032?e=1723075200&v=beta&t=4Qw1vQnQ2xA", // Replace with Om Jani's actual LinkedIn image if available
+      bio: "AI Developer with a passion for building intelligent systems and innovative solutions.",
+      linkedin: "https://www.linkedin.com/in/om-jani-345a2627a/"
     }
   ];
 
