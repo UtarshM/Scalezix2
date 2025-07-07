@@ -73,7 +73,7 @@ const Header = () => {
         <div className="flex justify-between items-center py-3 lg:py-4">
           <Link to="/" className="flex items-center">
             <img 
-              src="/src/assets/Screenshot_2025-07-06_at_11.40.08_AM-removebg-preview.png" 
+              src="/Screenshot_2025-07-06_at_11.40.08_AM-removebg-preview.png" 
               alt="ScaleziX" 
               className="h-8 lg:h-10 w-auto"
             />

@@ -47,7 +47,7 @@ const Footer = () => {
           <div className="lg:col-span-2">
             <Link to="/" className="flex items-center mb-4 sm:mb-6">
               <img 
-                src="/src/assets/Screenshot_2025-07-06_at_11.40.08_AM-removebg-preview.png" 
+                src="/Screenshot_2025-07-06_at_11.40.08_AM-removebg-preview.png" 
                 alt="ScaleziX" 
                 className="h-6 sm:h-8 w-auto brightness-0 invert"
               />
