@@ -141,11 +141,6 @@ const AIConsulting = () => {
                   View Case Studies
                 </Link>
               </div>
-
-              <div className="bg-purple-50 rounded-xl p-6">
-                <div className="text-2xl font-bold text-purple-600 mb-2">Starting at $1,999</div>
-                <p className="text-gray-600">Comprehensive AI strategy and consulting package</p>
-              </div>
             </div>
 
             <div className="relative">

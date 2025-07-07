@@ -145,11 +145,6 @@ const AIDevelopment = () => {
                   View AI Projects
                 </Link>
               </div>
-
-              <div className="bg-indigo-50 rounded-xl p-6">
-                <div className="text-2xl font-bold text-indigo-600 mb-2">Starting at $4,999</div>
-                <p className="text-gray-600">Custom AI development and implementation</p>
-              </div>
             </div>
 
             <div className="relative">

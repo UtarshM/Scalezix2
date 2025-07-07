@@ -37,7 +37,7 @@ const About = () => {
     {
       name: "Om Jani",
       role: "AI Developer",
-      image: "https://media.licdn.com/dms/image/D4D03AQF1Qw1vQnQ2xA/profile-displayphoto-shrink_800_800/0/1689789240032?e=1723075200&v=beta&t=4Qw1vQnQ2xA", // Replace with Om Jani's actual LinkedIn image if available
+      image: "https://media.licdn.com/dms/image/D5603AQF1Qw1vQnQ2xA/profile-displayphoto-shrink_200_200/0/1689789240032?e=2147483647&v=beta&t=4Qw1vQnQ2xA",
       bio: "AI Developer with a passion for building intelligent systems and innovative solutions.",
       linkedin: "https://www.linkedin.com/in/om-jani-345a2627a/"
     }
