@@ -101,18 +101,28 @@ const Header = () => {
                       <ChevronDown className="w-4 h-4 transition-transform duration-200 group-hover:rotate-180" />
                     </Link>
                     {isServicesOpen && (
+<<<<<<< HEAD
                       <div className="absolute top-full left-0 mt-3 w-80 bg-white rounded-xl shadow-2xl border border-gray-100 py-4 z-50 opacity-0 translate-y-2 animate-fadeIn drop-shadow-lg">
+=======
+                      <div className="absolute top-full left-1/2 transform -translate-x-1/2 mt-3 w-[900px] bg-white rounded-xl shadow-2xl border border-gray-100 py-4 z-50 opacity-0 translate-y-2 animate-fadeIn drop-shadow-lg">
+>>>>>>> 4d3a36d6ee01b2dee7f99d0e79afc39735759665
                         <div className="px-6 py-2 border-b border-gray-100 mb-2">
                           <h3 className="text-base font-bold text-gray-900 uppercase tracking-wide text-center">
                             Our Services
                           </h3>
                         </div>
+<<<<<<< HEAD
                         {/* Vertical Sidebar Layout */}
                         <div className="space-y-2 px-4">
+=======
+                        {/* Modern Card Grid Layout - 6 services in one line, more compact and elegant */}
+                        <div className="grid grid-cols-3 md:grid-cols-6 gap-4 px-6">
+>>>>>>> 4d3a36d6ee01b2dee7f99d0e79afc39735759665
                           {item.dropdownItems?.map((dropdownItem, index) => (
                             <Link
                               key={index}
                               to={dropdownItem.path}
+<<<<<<< HEAD
                               className="group flex items-center gap-4 p-3 bg-gray-50 hover:bg-gradient-to-r hover:from-blue-50 hover:to-purple-50 rounded-lg transition-all duration-200 shadow-sm hover:shadow-md border border-transparent hover:border-blue-200"
                             >
                               <div className="text-2xl flex-shrink-0">{dropdownItem.icon}</div>
@@ -122,6 +132,19 @@ const Header = () => {
                                 </div>
                                 <div className="text-xs text-gray-500 mt-1 leading-relaxed">
                                   {dropdownItem.description}
+=======
+                              className="group block p-4 bg-gray-50 hover:bg-gradient-to-br hover:from-blue-50 hover:to-purple-50 rounded-xl transition-all duration-200 text-center shadow-sm hover:shadow-lg transform hover:scale-105 border border-transparent hover:border-blue-200"
+                            >
+                              <div className="flex flex-col items-center gap-2">
+                                <div className="text-3xl mb-1">{dropdownItem.icon}</div>
+                                <div>
+                                  <div className="text-gray-900 font-semibold group-hover:text-blue-600 transition-colors duration-200 text-sm leading-tight">
+                                    {dropdownItem.name}
+                                  </div>
+                                  <div className="text-xs text-gray-500 mt-1 leading-relaxed">
+                                    {dropdownItem.description}
+                                  </div>
+>>>>>>> 4d3a36d6ee01b2dee7f99d0e79afc39735759665
                                 </div>
                               </div>
                             </Link>

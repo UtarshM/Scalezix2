@@ -21,6 +21,7 @@ const Contact = () => {
 
   const handleSubmit = (e: React.FormEvent) => {
     e.preventDefault();
+<<<<<<< HEAD
     
     // Simple form validation
     if (!formData.name || !formData.email || !formData.message) {
@@ -65,6 +66,10 @@ ${formData.message}
       budget: '',
       message: ''
     });
+=======
+    // Handle form submission here
+    console.log('Form submitted:', formData);
+>>>>>>> 4d3a36d6ee01b2dee7f99d0e79afc39735759665
   };
 
   const contactInfo = [
@@ -83,7 +88,11 @@ ${formData.message}
     {
       icon: <MapPin className="w-5 h-5 sm:w-6 sm:h-6" />,
       title: "Visit Us",
+<<<<<<< HEAD
       details: "i-hub Prajna Puram, KCG Campus, opp. PRL, Navrangpura, Ahmedabad, Gujarat 380015",
+=======
+      details: "123 Tech Street, Digital City, DC 12345",
+>>>>>>> 4d3a36d6ee01b2dee7f99d0e79afc39735759665
       description: "Come say hello at our office"
     },
     {
@@ -381,7 +390,11 @@ ${formData.message}
             <div className="text-center">
               <MapPin className="w-12 h-12 sm:w-16 sm:h-16 text-gray-500 mx-auto mb-3 sm:mb-4" />
               <p className="text-gray-600 text-base sm:text-lg">Interactive Map Coming Soon</p>
+<<<<<<< HEAD
               <p className="text-gray-500 text-sm sm:text-base">i-hub Prajna Puram, KCG Campus, opp. PRL, Navrangpura, Ahmedabad, Gujarat 380015</p>
+=======
+              <p className="text-gray-500 text-sm sm:text-base">123 Tech Street, Digital City, DC 12345</p>
+>>>>>>> 4d3a36d6ee01b2dee7f99d0e79afc39735759665
             </div>
           </div>
         </div>

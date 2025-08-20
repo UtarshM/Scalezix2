@@ -85,7 +85,11 @@ const Footer = () => {
               </div>
               <div className="flex items-center gap-3">
                 <MapPin className="w-3 h-3 sm:w-4 sm:h-4 text-blue-400" />
+<<<<<<< HEAD
                 <span className="text-gray-300 text-sm sm:text-base">i-hub Prajna Puram, KCG Campus, opp. PRL, Navrangpura, Ahmedabad, Gujarat 380015</span>
+=======
+                <span className="text-gray-300 text-sm sm:text-base">123 Tech Street, Digital City, DC 12345</span>
+>>>>>>> 4d3a36d6ee01b2dee7f99d0e79afc39735759665
               </div>
             </div>
 
