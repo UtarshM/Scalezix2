@@ -29,34 +29,24 @@ const About = () => {
   const team = [
     {
       name: "Utkarsh Makwana",
-<<<<<<< HEAD
       role: "Founder & CEO",
-=======
-      role: "CEO & Founder",
->>>>>>> 4d3a36d6ee01b2dee7f99d0e79afc39735759665
-      image: "https://media.licdn.com/dms/image/v2/D5603AQHkUrzfmHVp3g/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1732688361963?e=2147483647&v=beta&t=DA9-PH7ABEECL-VMClgUiZ2dSTIGkD4T8yio9yf6Gfs",
+      image: "https://api.dicebear.com/7.x/personas/svg?seed=UtkarshMakwana&backgroundColor=3b82f6&v=2",
       bio: "Visionary leader with a passion for technology and business growth.",
       linkedin: "https://www.linkedin.com/in/utkarsh-makwana-29a0841a9"
     },
     {
       name: "Om Jani",
       role: "AI Developer",
-<<<<<<< HEAD
-      image: "https://media.licdn.com/dms/image/v2/D4D03AQGqQHVdOnAfGA/profile-displayphoto-shrink_400_400/B4DZTW7rVXGcAg-/0/1738772756822?e=1758758400&v=beta&t=cqOmuIYItRDXP2ttiJk-PyFg2lTh4Q_HB3H1wMzG6Jg",
+      image: "https://api.dicebear.com/7.x/personas/svg?seed=OmJani&backgroundColor=0ea5e9&clothingColor=0f172a&accessories=glasses&v=2",
       bio: "AI Developer with a passion for building intelligent systems and innovative solutions.",
       linkedin: "https://www.linkedin.com/in/om-jani-345a2627a/"
     },
     {
       name: "Harsh Kuhikar",
       role: "Shopify Developer",
-      image: "https://media.licdn.com/dms/image/v2/D4D03AQEdHL216psygg/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1731039951097?e=1758758400&v=beta&t=fqbhSrKmKWdlwEVn29NE3Djh1HHvZDChdfeGATx-pWI",
+      image: "https://api.dicebear.com/7.x/personas/svg?seed=HarshKuhikar&backgroundColor=ff6b35&clothingColor=ffffff&v=2",
       bio: "Expert Shopify developer specializing in e-commerce solutions and custom store development.",
-      linkedin: "https://www.linkedin.com/in/iharsh-kuhikar/"
-=======
-      image: "https://media.licdn.com/dms/image/D5603AQF1Qw1vQnQ2xA/profile-displayphoto-shrink_200_200/0/1689789240032?e=2147483647&v=beta&t=4Qw1vQnQ2xA",
-      bio: "AI Developer with a passion for building intelligent systems and innovative solutions.",
-      linkedin: "https://www.linkedin.com/in/om-jani-345a2627a/"
->>>>>>> 4d3a36d6ee01b2dee7f99d0e79afc39735759665
+      linkedin: "https://www.linkedin.com/in/harsh-kuhikar/"
     }
   ];
 
