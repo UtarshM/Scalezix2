@@ -30,21 +30,21 @@ const About = () => {
     {
       name: "Utkarsh Makwana",
       role: "Founder & CEO",
-      image: "https://api.dicebear.com/7.x/personas/svg?seed=UtkarshMakwana&backgroundColor=3b82f6&v=2",
+      image: "https://media.licdn.com/dms/image/v2/D5603AQHkUrzfmHVp3g/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1732688361963?e=1758758400&v=beta&t=jBwEbyc5Fr_IA4_Qh1sjEuY_OQPorvRpUM2ylTOySSw",
       bio: "Visionary leader with a passion for technology and business growth.",
       linkedin: "https://www.linkedin.com/in/utkarsh-makwana-29a0841a9"
     },
     {
       name: "Om Jani",
       role: "AI Developer",
-      image: "https://api.dicebear.com/7.x/personas/svg?seed=OmJani&backgroundColor=0ea5e9&clothingColor=0f172a&accessories=glasses&v=2",
+      image: "https://media.licdn.com/dms/image/v2/D4D03AQGqQHVdOnAfGA/profile-displayphoto-shrink_400_400/B4DZTW7rVXGcAg-/0/1738772756822?e=1758758400&v=beta&t=cqOmuIYItRDXP2ttiJk-PyFg2lTh4Q_HB3H1wMzG6Jg",
       bio: "AI Developer with a passion for building intelligent systems and innovative solutions.",
       linkedin: "https://www.linkedin.com/in/om-jani-345a2627a/"
     },
     {
       name: "Harsh Kuhikar",
       role: "Shopify Developer",
-      image: "https://media.licdn.com/dms/image/v2/D4D03AQEdHL216psygg/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1731039951097?e=1758758400&v=beta&t=fqbhSrKmKWdlwEVn29NE3Djh1HHvZDChdfeGATx-pWI,
+      image: "https://media.licdn.com/dms/image/v2/D4D03AQEdHL216psygg/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1731039951097?e=1758758400&v=beta&t=fqbhSrKmKWdlwEVn29NE3Djh1HHvZDChdfeGATx-pWI",
       bio: "Expert Shopify developer specializing in e-commerce solutions and custom store development.",
       linkedin: "https://www.linkedin.com/in/harsh-kuhikar/"
     }
