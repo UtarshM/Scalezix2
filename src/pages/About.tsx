@@ -43,7 +43,7 @@ const About = () => {
     },
     {
       name: "Harsh Kuhikar",
-      role: "Shopify Developer",
+      role: "FrontEnd Developer",
       image: "https://media.licdn.com/dms/image/v2/D4D03AQEdHL216psygg/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1731039951097?e=1758758400&v=beta&t=fqbhSrKmKWdlwEVn29NE3Djh1HHvZDChdfeGATx-pWI",
       bio: "Expert Shopify developer specializing in e-commerce solutions and custom store development.",
       linkedin: "https://www.linkedin.com/in/harsh-kuhikar/"
