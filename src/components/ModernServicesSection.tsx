@@ -248,13 +248,6 @@ const ModernServicesSection = () => {
                 <Zap className="w-5 h-5" />
                 Get Started Today
               </Link>
-              <Link 
-                to="/portfolio"
-                className="inline-flex items-center gap-2 px-8 py-4 border border-gray-700 text-gray-300 font-semibold rounded-lg hover:border-gray-600 hover:text-white transition-all duration-300 hover:scale-105"
-              >
-                <Target className="w-5 h-5" />
-                View Our Work
-              </Link>
             </div>
           </div>
         </div>
